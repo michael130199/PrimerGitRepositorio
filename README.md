@@ -35,7 +35,7 @@ COMANDOS BASICOS
 
 * git log: para ver todos los commit que se ha realizado
 
-*  git config -- global user.email "email" Para configurar email del usuario
-*  git config -- global user.name "nombre" Para configurar nombre del 
+*  git config --global user.email "email" Para configurar email del usuario
+*  git config --global user.name "nombre" Para configurar nombre del 
 		
 		git push -u origin master
